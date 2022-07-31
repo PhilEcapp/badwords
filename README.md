@@ -1,7 +1,7 @@
 <h2 dir="auto">Remove bad words (swearwords) in PHP</h2>
 
 <h2 dir="auto">badwords.php Code</h2>
-This is the js to fetch data from JSON file. 
+This is the PHP code file. 
 <pre>
 <?php
 
