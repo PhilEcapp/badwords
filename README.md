@@ -1,6 +1,8 @@
-# badwords
-Remove bad words (swearwords) in PHP
+<h2 dir="auto">Remove bad words (swearwords) in PHP</h2>
 
+<h2 dir="auto">badwords.php Code</h2>
+This is the js to fetch data from JSON file. 
+<pre>
 <?php
 
 function censor($string)
@@ -24,7 +26,10 @@ function censor($string)
 echo censor("Some really bad swear words to remove");
 
 ?>
+</pre>
 
-badwords.txt file
+<h2 dir="auto">badwords.txt File</h2>
 
+<pre>
 bad,words
+</pre>
